@@ -8,7 +8,7 @@ In this project, the goal was to collect experimental data and do a complete end
 
 The results were presented in a dynamic Tableau dashboard. You can find it [here](https://public.tableau.com/app/profile/ines.andrade/viz/Projecto_Universities_Studies_Vs_Career_Opportunities/Dashboard1) on Tableau Public.
 
-![Dashboard](TableauPublicDashboard.png)
+![Dashboard](Images\chrome_CFNdxu3Uvs.png)
 
 
 ## Sample Collection
